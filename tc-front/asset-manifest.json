@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "http://tuchuang.0voice.com/static/css/main.afc58655.chunk.css",
+    "main.js": "http://tuchuang.0voice.com/static/js/main.41773419.chunk.js",
+    "main.js.map": "http://tuchuang.0voice.com/static/js/main.41773419.chunk.js.map",
+    "runtime-main.js": "http://tuchuang.0voice.com/static/js/runtime-main.ac423fd0.js",
+    "runtime-main.js.map": "http://tuchuang.0voice.com/static/js/runtime-main.ac423fd0.js.map",
+    "static/js/2.ac20468f.chunk.js": "http://tuchuang.0voice.com/static/js/2.ac20468f.chunk.js",
+    "static/js/2.ac20468f.chunk.js.map": "http://tuchuang.0voice.com/static/js/2.ac20468f.chunk.js.map",
+    "static/js/3.a7e636cf.chunk.js": "http://tuchuang.0voice.com/static/js/3.a7e636cf.chunk.js",
+    "static/js/3.a7e636cf.chunk.js.map": "http://tuchuang.0voice.com/static/js/3.a7e636cf.chunk.js.map",
+    "index.html": "http://tuchuang.0voice.com/index.html",
+    "static/css/main.afc58655.chunk.css.map": "http://tuchuang.0voice.com/static/css/main.afc58655.chunk.css.map",
+    "static/js/2.ac20468f.chunk.js.LICENSE.txt": "http://tuchuang.0voice.com/static/js/2.ac20468f.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "http://tuchuang.0voice.com/static/media/reg-form.4eb10b89.png",
+    "static/media/logo200.dfd05ae9.png": "http://tuchuang.0voice.com/static/media/logo200.dfd05ae9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac423fd0.js",
+    "static/js/2.ac20468f.chunk.js",
+    "static/css/main.afc58655.chunk.css",
+    "static/js/main.41773419.chunk.js"
+  ]
+}
